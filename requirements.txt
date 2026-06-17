@@ -1,0 +1,7 @@
+customtkinter
+supabase
+python-dotenv
+reportlab
+tkcalendar
+fpdf2
+openpyxl
